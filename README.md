@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiacomoZheng
-- 👀 I’m interested in Math, Physics and Computer Science
+- 👀 I’m interested in Mathematics, Physics and Computer Science
 - 🌱 I’m currently learning Pure Math
 <!---
 - 💞️ I’m looking to collaborate on ...
