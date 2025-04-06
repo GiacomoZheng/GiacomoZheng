@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GiacomoZheng
 - 👀 I’m interested in Mathematics, Physics and Computer Science
-- 🌱 I’m currently learning Pure Math
+- 🌱 I’m currently working on Complex Algebraic Geometry, more precise, K-stability theory.
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? 
